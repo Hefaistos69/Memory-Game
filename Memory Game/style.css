@@ -20,9 +20,23 @@
   background-image: url('images/hand.png');
 }
 
+.lightning{
+  background-image: url('images/lightning.png');
+}
+
 .whatsapp
 {
   background-image: url('images/whatsapp.png');
+}
+
+.like
+{
+  background-image: url('images/like.png');
+}
+
+.steam
+{
+  background-image: url('images/steam.png');
 }
 
 .vanish{
@@ -35,7 +49,7 @@
 
 .grid-container{
   display: grid;
-  grid-template-columns: 200px 200px 200px;
+  grid-template-columns: 200px 200px 200px 200px;
   grid-gap: 5px;
 }
 

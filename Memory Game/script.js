@@ -107,6 +107,13 @@ AddItem(3, "hand");
 AddItem(4, "hand");
 AddItem(5, "whatsapp");
 AddItem(6, "whatsapp");
+AddItem(7, "lightning");
+AddItem(8, "lightning");
+AddItem(9, "like");
+AddItem(10, "like");
+AddItem(11, "steam");
+AddItem(12, "steam");
+
 shuffleArray(objects);
 
 Post();
